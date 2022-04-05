@@ -1,0 +1,17 @@
+header {
+    color: blue;
+  }
+  #main {
+    font-style: normal;
+  }
+  #image {
+    max-width: 50%;
+    display: block;
+    margin: auto;
+  }
+  #img-div {
+    max-width: 700px;
+  }
+  #img-caption {
+    margin: auto;
+  }
